@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/yqhgit/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.123:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-01 22:38:35
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.207:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-07 16:01:20
 https://cdn3.163189.xyz/163189/cctv13
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-13" tvg-logo="http://10.1.0.123:5180/logo/CCTV-13.png" group-title="📺央视频道",CCTV-13
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-13" tvg-logo="http://10.1.0.207:5180/logo/CCTV-13.png" group-title="📺央视频道",CCTV-13
 https://cdn3.163189.xyz/163189/cctv13
